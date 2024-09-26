@@ -45,7 +45,7 @@ Want to learn more about what we do with any information we collect?
 
 ## TABLE OF CONTENTS
 
-1. [What Information Do We Collect?](#what-information-do-we-collect)
+1. [What Information Do We Collect?](#1.-what-information-do-we-collect)
 2. [How Do We Process Your Information?](#how-do-we-process-your-information)
 3. [When and With Whom Do We Share Your Personal Information?](#when-and-with-whom-do-we-share-your-personal-information)
 4. [How Long Do We Keep Your Information?](#how-long-do-we-keep-your-information)
