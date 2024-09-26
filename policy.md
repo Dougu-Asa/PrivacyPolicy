@@ -45,16 +45,16 @@ Want to learn more about what we do with any information we collect?
 
 ## TABLE OF CONTENTS
 
-1. [WHAT INFORMATION DO WE COLLECT?](#infocollect)
-2. [HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
-3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
-4. [HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
-5. [WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
-6. [CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
-7. [DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#uslaws)
-8. [DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
-9. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-10. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
+1. [What Information Do We Collect?](#what-information-do-we-collect)
+2. [How Do We Process Your Information?](#how-do-we-process-your-information)
+3. [When and With Whom Do We Share Your Personal Information?](#when-and-with-whom-do-we-share-your-personal-information)
+4. [How Long Do We Keep Your Information?](#how-long-do-we-keep-your-information)
+5. [What Are Your Privacy Rights?](#what-are-your-privacy-rights)
+6. [Controls for Do-Not-Track Features](#controls-for-do-not-track-features)
+7. [Do United States Residents Have Specific Privacy Rights?](#do-united-states-residents-have-specific-privacy-rights)
+8. [Do We Make Updates to This Notice?](#do-we-make-updates-to-this-notice)
+9. [How Can You Contact Us About This Notice?](#how-can-you-contact-us-about-this-notice)
+10. [How Can You Review, Update, or Delete the Data We Collect From You?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 ---
 
